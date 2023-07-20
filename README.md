@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meenakshi I like to be called Meenu</h1>
 <h3 align="center">Full stack developer with passion for cybersecurity</h3>
-- 📍 I live in Mumbai, India
-     Originally from Tamilnadu
+- 📍 I live in Mumbai, India /n
+     Originally from Tamilnadu/n
 -    Languages I know: Python, Typescript no I don't consider HTML,css as programming lang
      
 
