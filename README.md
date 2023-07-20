@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Meenakshi I like to be called Meenu</h1>
 <h3 align="center">Full stack developer with passion for cybersecurity</h3>
+- 📍 I live in Mumbai, India
+     Originally from Tamilnadu
+-    Languages I know: Python, Typescript no I don't consider HTML,css as programming lang
+     
 
 - 🔭 Some of my clients website [Dusk and Dawn](https://duskanddawnresort.com/)
 
 - 🌱 I’m currently learning **Pentesting, Security and Malware Analysing**
 
-- 👯 I have worked as Web Developer at [Kioto Labs](Kioto Labs)
+- 👯 I have worked as Web Developer at (Kioto Labs)
 
 - 🤝 I was Data Analyst Intern at [Tradub](Tradub)
 
 - 👨‍💻 All of my projects are available at [https://meenu10802.github.io/meenu10802.github/](https://meenu10802.github.io/meenu10802.github/)
 
-- 💬 Ask me about **Linux,React,Front end development**
+- 💬 Ask me about **Linux,React, Networking,Vapt,Offensive Security**
 
 - 📫 How to reach me **meenu10802@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13-ui_E_8wIlGUf_jOkB34UfDOmFC0xqo/view?usp=drive_link](https://drive.google.com/file/d/13-ui_E_8wIlGUf_jOkB34UfDOmFC0xqo/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm also a scuba diver,biker, windsurfer**
+- ⚡ Fun fact **I'm also a scuba diver, biker, windsurfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
