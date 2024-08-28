@@ -5,7 +5,7 @@
 -                               Languages I know: Python, Typescript no I don't consider HTML,css as programming lang
      
 
-- 🔭 Some of my clients website [Dusk and Dawn](https://duskanddawnresort.com/)
+- 🔭 Some of my clients website [Dusk and Dawn](https://www.khaacheckpictures.com/)
 
 - 🌱 I’m currently learning **Pentesting, Security and Malware Analysing**
 
