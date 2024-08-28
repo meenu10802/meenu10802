@@ -5,11 +5,11 @@
 -                               Languages I know: Python, Typescript no I don't consider HTML,css as programming lang
      
 
-- 🔭 Some of my clients website [Dusk and Dawn](https://www.khaacheckpictures.com/)
+- 🔭 Some of my clients website [Khaachek Pictures](https://www.khaacheckpictures.com/)
 
 - 🌱 I’m currently learning **Pentesting, Security and Malware Analysing**
 
-- 👯 I have worked as Web Developer at (Kioto Labs)
+- 👯 I completed my first internship as a Web developer at (Kioto Labs), which marked the beginning of my journey into web development. 
 
 - 🤝 I was Data Analyst Intern at [Tradub](Tradub)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **meenu10802@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13-ui_E_8wIlGUf_jOkB34UfDOmFC0xqo/view?usp=drive_link](https://drive.google.com/file/d/13-ui_E_8wIlGUf_jOkB34UfDOmFC0xqo/view?usp=drive_link)
+- 📄 Know about my experiences at [Google Drive](https://drive.google.com/drive/folders/1PTMVW4H7gfUm_Wb5RW-RRYF2fXJpz2io?usp=drive_link)
 
 - ⚡ Fun fact **I'm also a scuba diver, biker, windsurfer**
 
