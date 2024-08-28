@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://meenu10802.github.io/meenu10802.github/](https://meenu10802.github.io/meenu10802.github/)
 
+- :feet: I have a strong interest in operations management and have actively pursued this passion by volunteering at a surf school and an NGO to gain experience in organizing. Additionally, I have been involved in organizing committees at college to further explore this field.
+
 - 💬 Ask me about **Linux,React, Networking,Vapt,Offensive Security**
 
 - 📫 How to reach me **meenu10802@gmail.com**
