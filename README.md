@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Pentesting, Security and Malware Analysing**
 
-- 👯 I completed my first internship as a Web developer at (Kioto Labs), which marked the beginning of my journey into web development. 
+- :tada: I completed my first internship as a Web developer at (Kioto Labs), which marked the beginning of my journey into web development. 
 
-- 🤝 I was Data Analyst Intern at [Tradub](Tradub)
+- :octocat: I was Data Analyst Intern at [Tradub](Tradub)
 
 - 👨‍💻 All of my projects are available at [https://meenu10802.github.io/meenu10802.github/](https://meenu10802.github.io/meenu10802.github/)
 
