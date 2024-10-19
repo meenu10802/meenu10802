@@ -15,7 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://meenu10802.github.io/meenu10802.github/](https://meenu10802.github.io/meenu10802.github/)
 
-- I am currently working as a React Developer at a US Based startup and undertaking freelancing projects. If you need a website or app built reach out
 
 - :feet: I have a strong interest in operations management and have actively pursued this passion by volunteering at a surf school and an NGO to gain experience in organizing. Additionally, I have been involved in organizing committees at college to explore this field further.
 
@@ -25,7 +24,7 @@
 
 - 📄 Know about my experiences at [Google Drive](https://drive.google.com/drive/folders/1PTMVW4H7gfUm_Wb5RW-RRYF2fXJpz2io?usp=drive_link)
 
-- ⚡ Fun fact **I'm also a scuba diver, biker, windsurfer. If I had a wish to make I could wish to have gills like a fish so that i can be stay underwater**
+- ⚡ Fun fact **I'm also a scuba diver, biker, windsurfer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
