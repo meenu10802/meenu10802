@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meenakshi I like to be called Meenu</h1>
 <h3 align="center">Backend developer with passion for cybersecurity</h3>
-<h4 align="center"> I am currently working as a React Developer at [SubEngage](https://www.k.com/)
 - 📍 I live in Mumbai, India 
                                                      Originally from Tamilnadu
 -                               Languages I know: Java, Python, Typescript no I don't consider HTML or CSS as programming lang
