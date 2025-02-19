@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meenakshi I like to be called Meenu</h1>
-<h3 align="center"> Rookie developer with passion for cybersecurity</h3>
+<h3 align="center"> Rookie self acclaimed web developer with passion for cybersecurity</h3>
 - 📍 I live in Mumbai, India 
                                                      Originally from Tamilnadu
--                               Languages I know: Java, Python, Typescript no I don't consider HTML or CSS as programming lang
+-                               Languages I know: Java, Typescript no I don't consider HTML or CSS as programming lang. 
+                              Technologies I know: Mern Stack and Flask
      
 
 - 🔭 Some of my clients website [Khaachek Pictures](https://www.khaacheckpictures.com/)
