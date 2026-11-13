@@ -39,7 +39,26 @@
 - **Documentation & Reporting:** Writing clear API documentation, technical specifications, and system architecture notes.
 
 ---
+---
 
+## 📁 Featured Projects
+
+### 1. Enterprise Task Management Application *(Team Project)*
+* **Tech Stack:** Java 17, Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Vault, Thymeleaf, MySQL, AWS EC2, Swagger/OpenAPI
+* **My Ownership (`feature/meenakshi`):** Built the **Notification REST API module** (`/api/v1/notifications`) and developed the **server-side Thymeleaf UI**, including a responsive endpoint dashboard, API testing interface, and dynamic response views.
+* **Infrastructure & Security:** Collaborated on a 3-instance **AWS EC2** deployment (App Server, Centralized MySQL Server, and **HashiCorp Vault** server for zero-hardcoded-secrets configuration).
+* **Repository:** [(https://github.com/meenu10802/springboot-task-management)] 
+
+### 2. Bookstore Management System
+* **Tech Stack:** Core Java, Spring Boot, Spring Data JPA, MySQL, REST APIs
+* **Highlights:** Developed a backend service for managing book inventory, user workflows, and order processing with structured CRUD endpoints, exception handling, and relational mapping.
+* **Repository:** [(https://github.com/meenu10802/bookstore-microservices)]
+
+### 3. CommentCraft AI – Browser Extension & Backend Service
+* **Tech Stack:** JavaScript (ES6+), Chrome Extension (Manifest V3), Node.js, Express.js, LLM API
+* **Highlights:** Built a full-stack Chrome extension that drafts tone-based replies (6 tones) inside web text boxes. It reads on-page context, and the user reviews and edits each draft before posting manually. Implemented asynchronous message passing between content scripts and a Manifest V3 service worker, and isolated the UI in a Shadow DOM so site styles don’t break it.Designed a Node.js/Express REST endpoint (/generate) that builds structured prompts and calls the LLM, keeping API credentials on the server instead of in the extension.
+* **Repository:** [https://github.com/meenu10802/CommentCraft_Ai_Chrome_Extension]
+---
 ## 📫 Connect with Me
 - **Email:** meenu10802@gmail.com
 - **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
